@@ -1,3 +1,4 @@
 # Intro-to-R-for-Data-Science-EdX-DatacampHello World
-A line I wrote on my local computer
-Another Line
+This course is free introductory course provided by DATACAMP.
+
+https://www.datacamp.com/courses/free-introduction-to-r
